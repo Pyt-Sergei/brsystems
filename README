@@ -1,0 +1,3 @@
+Экспорт данных из Bitrix24 в Google BigQuery
+Необходимо реализовать python script для загрузки информации о лидах
+из Bitrix24 в BigQuery с помощью API Bitrix24 и Google Cloud Client Library
